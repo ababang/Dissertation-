@@ -1,4 +1,4 @@
-##-------------------------DISSERTATION 2210245---------------------------------
+##-------------------------DISSERTATION ---------------------------------
 ## TOPIC: Predicting cardiovascular risk in patients with chronic obstructive 
 ##        pulmonary disease using routine health data in Wales
 
